@@ -1,0 +1,41 @@
+body 
+{
+        
+    background-color: rgb(0, 25, 63);
+   
+ 
+}
+
+p
+{
+  
+    font-family:Italic;
+    font-display:initial;
+    font-size: xx-large; color: rgb(218, 206, 206);
+    font-style: normal; 
+}
+
+
+#container{
+  
+    align-items: center;
+    display: flex ;
+
+}
+#container img{
+
+    margin-right: 80px;
+}
+
+  
+    
+#container{
+
+    align-items: center;
+    display: flex;
+    font-family:Italic;
+     font-display:initial;
+    font-size:xx-large color rgb(218, 206, 206);
+    font-style:normal;
+  
+}
